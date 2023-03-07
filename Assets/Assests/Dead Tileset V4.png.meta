@@ -1,0 +1,779 @@
+fileFormatVersion: 2
+guid: 62399b206f2831d4f8f5d519c8a9bcb8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3019051013275066193
+    second: Dead Tileset V4_0
+  - first:
+      213: -7490273888062679293
+    second: Dead Tileset V4_1
+  - first:
+      213: -9019591895456057063
+    second: Dead Tileset V4_2
+  - first:
+      213: 8153568523542531811
+    second: Dead Tileset V4_3
+  - first:
+      213: -4103706430881211026
+    second: Dead Tileset V4_4
+  - first:
+      213: -1934892675256367235
+    second: Dead Tileset V4_5
+  - first:
+      213: -2360938768543638542
+    second: Dead Tileset V4_6
+  - first:
+      213: -24824256656327385
+    second: Dead Tileset V4_7
+  - first:
+      213: -1762713645141774321
+    second: Dead Tileset V4_8
+  - first:
+      213: 70058199792188948
+    second: Dead Tileset V4_9
+  - first:
+      213: 4944027516208005504
+    second: Dead Tileset V4_10
+  - first:
+      213: -1711430939830633147
+    second: Dead Tileset V4_11
+  - first:
+      213: -4279880309833501821
+    second: Dead Tileset V4_12
+  - first:
+      213: 2881378702538007595
+    second: Dead Tileset V4_13
+  - first:
+      213: -6679819976477241915
+    second: Dead Tileset V4_14
+  - first:
+      213: 3021293781313577945
+    second: Dead Tileset V4_15
+  - first:
+      213: -3471531373196285501
+    second: Dead Tileset V4_16
+  - first:
+      213: -6611533944581433177
+    second: Dead Tileset V4_17
+  - first:
+      213: 389645496052848963
+    second: Dead Tileset V4_18
+  - first:
+      213: 4506431910149497057
+    second: Dead Tileset V4_19
+  - first:
+      213: -4400376631197963388
+    second: Dead Tileset V4_20
+  - first:
+      213: -8672963433352708663
+    second: Dead Tileset V4_21
+  - first:
+      213: -1013551754884424786
+    second: Dead Tileset V4_22
+  - first:
+      213: -4896104174785356047
+    second: Dead Tileset V4_23
+  - first:
+      213: 5608912392364614509
+    second: Dead Tileset V4_24
+  - first:
+      213: -3749201006701915778
+    second: Dead Tileset V4_25
+  - first:
+      213: 2292173092083592813
+    second: Dead Tileset V4_26
+  - first:
+      213: 6697360855209220313
+    second: Dead Tileset V4_27
+  - first:
+      213: -7021257056108334322
+    second: Dead Tileset V4_28
+  - first:
+      213: -4970868330097534194
+    second: Dead Tileset V4_29
+  - first:
+      213: 3240411905775547336
+    second: Dead Tileset V4_30
+  - first:
+      213: 497139423908096765
+    second: Dead Tileset V4_31
+  - first:
+      213: -3787008875174875553
+    second: Dead Tileset V4_32
+  - first:
+      213: 7318282003494721951
+    second: Dead Tileset V4_33
+  - first:
+      213: -4263030712602973729
+    second: Dead Tileset V4_34
+  - first:
+      213: -4280815664763127649
+    second: Dead Tileset V4_35
+  - first:
+      213: 2209839028088225886
+    second: Dead Tileset V4_36
+  - first:
+      213: 5616514348208242772
+    second: Dead Tileset V4_37
+  - first:
+      213: 8834550757729931111
+    second: Dead Tileset V4_38
+  - first:
+      213: -1537304891162736881
+    second: Dead Tileset V4_39
+  - first:
+      213: -5680723086099844029
+    second: Dead Tileset V4_40
+  - first:
+      213: -2683265121033560559
+    second: Dead Tileset V4_41
+  - first:
+      213: 3054311142456100678
+    second: Dead Tileset V4_42
+  - first:
+      213: 7462681321750157776
+    second: Dead Tileset V4_43
+  - first:
+      213: 7699022613067187677
+    second: Dead Tileset V4_44
+  - first:
+      213: -5762864706512019499
+    second: Dead Tileset V4_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dead Tileset V4_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 248
+        width: 80
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f1b05a6e2d5e920800000000000000
+      internalID: 3019051013275066193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead Tileset V4_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 232
+        width: 80
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6dd6d45eb4bc07c0800000000000000
+      internalID: -4103706430881211026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead Tileset V4_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 216
+        width: 80
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00379c67459987e0800000000000000
+      internalID: -1762713645141774321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead Tileset V4_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 200
+        width: 80
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e7730cf85e8f000800000000000000
+      internalID: 70058199792188948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead Tileset V4_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 184
+        width: 80
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081c557d4d6bc9440800000000000000
+      internalID: 4944027516208005504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead Tileset V4_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 47
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d38c5b0a6cf38e0800000000000000
+      internalID: -1711430939830633147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead Tileset V4_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 149
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3837f23b88fca94c0800000000000000
+      internalID: -4279880309833501821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead Tileset V4_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24672ce9a6bcf720800000000000000
+      internalID: 2881378702538007595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead Tileset V4_14
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 145
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd04826f138c43a0800000000000000
+      internalID: -6679819976477241915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead Tileset V4_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 147
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3ea45cfaacde920800000000000000
+      internalID: 3021293781313577945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead Tileset V4_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 128
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a859c428ec1f34a0800000000000000
+      internalID: -6611533944581433177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead Tileset V4_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 128
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3499f84a38c486500800000000000000
+      internalID: 389645496052848963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead Tileset V4_19
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 128
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e022f832ff0a8e30800000000000000
+      internalID: 4506431910149497057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead Tileset V4_20
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 128
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48be383a4c8bee2c0800000000000000
+      internalID: -4400376631197963388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead Tileset V4_21
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 128
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd3f0d65b173a780800000000000000
+      internalID: -8672963433352708663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead Tileset V4_22
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 86
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabd3a88c042fe1f0800000000000000
+      internalID: -1013551754884424786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead Tileset V4_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 112
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63ed238a1cd6dd40800000000000000
+      internalID: 5608912392364614509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead Tileset V4_25
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 97
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71defb6c8928fbc0800000000000000
+      internalID: -3749201006701915778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead Tileset V4_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 85
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ee955684f6fcf10800000000000000
+      internalID: 2292173092083592813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead Tileset V4_27
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 17
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d81a53b63ec1fc50800000000000000
+      internalID: 6697360855209220313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead Tileset V4_28
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 102
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0335fd58eb7f8e90800000000000000
+      internalID: -7021257056108334322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead Tileset V4_33
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 32
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99df6055b2cf8560800000000000000
+      internalID: 7318282003494721951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead Tileset V4_37
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 32
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45046d8ca0ed1fd40800000000000000
+      internalID: 5616514348208242772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead Tileset V4_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 117
+        width: 113
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307d3af75933d0890800000000000000
+      internalID: -7490273888062679293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead Tileset V4_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919795c75f8f3d280800000000000000
+      internalID: -9019591895456057063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
